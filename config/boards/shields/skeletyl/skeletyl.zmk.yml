@@ -1,0 +1,13 @@
+file_format: "1"
+id: skeletyl
+name: Skeletyl
+type: hand wire
+url: https://github.com/Bastardkb/Skeletyl
+requires: [nice_nano_v2]
+exposes: NA
+features:
+  - keys
+  - display
+siblings:
+  - skeletyl_left
+  - skeletyl_right
