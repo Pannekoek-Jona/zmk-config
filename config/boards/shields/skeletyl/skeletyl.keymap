@@ -5,8 +5,7 @@
 
 // Modified keymap based on personal experience, with some improvements based on Miryoku layout.
 
-#define QWERTY  0
-	
+/ {
     keymap {
         compatible = "zmk,keymap";
 
