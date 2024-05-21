@@ -1,0 +1,5 @@
+# ignore those backup files
+*.bak
+
+# ignore those original files
+*.orig

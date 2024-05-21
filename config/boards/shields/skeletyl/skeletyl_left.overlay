@@ -1,5 +1,3 @@
-// skeletyl_left.overlay
- 
 #include "skeletyl.dtsi"
  
 &kscan0 {
